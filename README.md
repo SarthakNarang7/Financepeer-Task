@@ -21,7 +21,7 @@ git clone https://github.com/SarthakNarang7/Financepeer-Task.git
 
 ##### Into the project directory
 
-`cd Financepeer-Task
+`cd Financepeer-Task`
 
 ##### Installing NPM dependencies
 
