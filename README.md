@@ -35,5 +35,5 @@ git clone https://github.com/SarthakNarang7/Financepeer-Task.git
 
 #### After Logging in user would see 2 options:
 
-i) Upload a new File
+i) Upload a new JSON File
 ii) Show All Records
